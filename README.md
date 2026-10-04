@@ -67,7 +67,7 @@ memory placement, device health policy, failure recovery policy, driver implemen
 management, kernel compilation, binary deployment, resource brokering, hardware control-plane
 mutation, or generic inventory management unrelated to capability truth.
 
-Adjacent systems keep their authority: a **Compatibility Registry** may govern generalized software
+Adjacent systems keep their authority: a **[Compatibility Registry](https://github.com/pngen/Compatibility-Registry)** may govern generalized software
 compatibility; a **Runtime Registry** may describe runtime services; **Accelerator Health** decides
 whether a device is healthy; **Topology/Cluster/Rack Fabric** owns relationships between hardware
 resources. HCR consumes or links that identity and supplies canonical capability knowledge in
